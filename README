@@ -1,0 +1,4 @@
+Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for laptops running OS X. It should work correctly on any laptop that correctly implements the ACPI standard DSDT methods as defined in the Advanced Configuration and Power Interface Specification 4.0a. 
+
+See original post at:
+http://www.insanelymac.com/forum/index.php?s=bfca1f05adde52f77c9d5c0caa1250f7&showtopic=264597&view=findpost&p=1729132
